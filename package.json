@@ -27,7 +27,6 @@
     "url": "https://github.com/js-next/react-style"
   },
   "dependencies": {
-    "exenv": "^1.2.1",
     "object-assign": "^4.1.0"
   }
 }
